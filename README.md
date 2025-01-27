@@ -19,3 +19,18 @@
 13. Random Forest Algorithm
 14. Support Vector Machine (SVM)
 15. Cross Validation
+16. Hyperparameter Optimization
+17. K-Means Clustering Algorithm
+18. Hierarchical Clustering Algorithm
+19. Principal Component Analysis (PCA)
+20. Save and Load
+21. Outlier Detection using Z-Score
+23. Handling Imbalanced Datasets 
+24. Feature Selection 
+	Feature Selection in Unsupervised Learning
+	Feature Selection in Supervised Learning
+25. ROC curve and AUC Value
+26. Ensemble Learning
+27. Instance Based and Model Based Learning
+28. DBSCAN Algorithm
+29. Cluster Validation & Silhouette Score
